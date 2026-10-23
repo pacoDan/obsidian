@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "76b505a02306bf62",
+    "type": "split",
+    "children": [
+      {
+        "id": "7942cf31c5f73381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3aeb1d8b6f051e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES AVANZADAS/recopilados utnianos.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "recopilados utnianos"
+            }
+          },
+          {
+            "id": "ba7d6b745e579a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MINI PC ryzen anomalias/contexto HDMI.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "contexto HDMI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8434da698d2a864",
+    "type": "split",
+    "children": [
+      {
+        "id": "77178dbc13e9a1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682a80cd09e45bf3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "078d09bd6e0b9a95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "reinicio",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3808d6f68c2aa21e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "3bddd586551dd828",
+    "type": "split",
+    "children": [
+      {
+        "id": "1066a5312f8e7ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f3ab938460d3918",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SISTEMAS DE COSTOS Y PRESUPUESTOS/PRESUPUESTOS/ejercicio 19 esquema de financiacion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de ejercicio 19 esquema de financiacion"
+            }
+          },
+          {
+            "id": "d0751390daa8feff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SISTEMAS DE COSTOS Y PRESUPUESTOS/PRESUPUESTOS/ejercicio 19 esquema de financiacion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de ejercicio 19 esquema de financiacion"
+            }
+          },
+          {
+            "id": "7a3df807b045f958",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "765132ea60f57b05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SISTEMAS DE COSTOS Y PRESUPUESTOS/PRESUPUESTOS/ejercicio 19 esquema de financiacion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de ejercicio 19 esquema de financiacion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "edge-tts:Read note aloud": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "ba7d6b745e579a60",
+  "lastOpenFiles": [
+    "MINI PC ryzen anomalias/ok MINI PC reinicios causas, configuraciones de la BIOS.md",
+    "MINI PC ryzen anomalias/contexto HDMI.md",
+    "MINI PC ryzen anomalias/MINI PC ryzen anomalias.md",
+    "REDES AVANZADAS/recopilados utnianos.md",
+    "aux_.md",
+    "ok BIOS explicacion sistemas operativos anomalia explicacion.md",
+    "MINI PC ryzen anomalias/ok BIOS explicacion sistemas operativos anomalia explicacion.md",
+    "MINI PC ryzen anomalias/ok BIOS de mini pc, explicacion de configuracion de bios.md",
+    "ok BIOS de mini pc, explicacion de configuracion de bios.md",
+    "MINI PC ryzen anomalias",
+    "MINI PC reinicios causas, configuraciones de la BIOS.md",
+    "TERMINADAS/CICLO financiacion/3 ciclo gestion/5 Capacitar -  Qué se puede patentar en un emprendimiento y cómo hacerlo.md",
+    "AUX 2.md",
+    "aux 3.md",
+    "DDS-Notas/DDS-Notas.md",
+    "escritura en disco hdd linux permisos de escritura, proteccion de escritura disco ext4.md",
+    "Sin nombre 1/Sin nombre 1.md",
+    "Sin nombre 1",
+    "aux222.md",
+    "_COSILLAS/ngrok RDP escritorio remoto conexion remoto.md",
+    "_COSILLAS/FEDORA ok instalacion.md",
+    "HDD uso de discos/jetbrains.md",
+    "HDD uso de discos/anaconda conda uso de conda en discos.md",
+    "ADR/ADR clase 2.md",
+    "HDD uso de discos/HDD uso de discos.md",
+    "HDD uso de discos",
+    "DDS-Notas/Deploy y ssh.md",
+    "ADR/Bienvenido.md",
+    "ADR/ADR K4001 Clase 5 Arquitectura de Software 2021 05 04 at 0435 GMT 7 Google Drive [DownSub.com].txt",
+    "ADR/Administración de Recursos K4001 clase 6 arquitectura de microservicios 2021 05 11 at 0441 GMT 7 [DownSub.com].txt",
+    "ADR/ADR.md",
+    "ADR",
+    "DDS-Notas/SO",
+    "DDS-Notas/Parciales resueltos 1/primer parcial/GTV",
+    "DDS-Notas/Parciales resueltos 1/primer parcial/1er parcial rec 2022",
+    "DDS-Notas/Parciales resueltos 1/primer parcial",
+    "IA/Pasted image 20250325173654.png",
+    "IA/Pasted image 20250324173016.png",
+    "IA/Pasted image 20250320180412.png",
+    "IA/Pasted image 20250320175822.png",
+    "IA/Pasted image 20250320160702.png",
+    "IA/Pasted image 20250320155645.png",
+    "IA/Pasted image 20250320151525.png",
+    "IA/Pasted image 20250320144947.png",
+    "IA/Pasted image 20250320143135.png",
+    "IA/Pasted image 20250320134913.png"
+  ]
+}

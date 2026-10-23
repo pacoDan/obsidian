@@ -48,8 +48,79 @@
               "icon": "lucide-file",
               "title": "tarea evento a evento"
             }
+          },
+          {
+            "id": "d75ab25c73d63d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RI notas TL 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "RI notas TL 1"
+            }
+          },
+          {
+            "id": "08f942ff095b9028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/ok GEE 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ok GEE 1"
+            }
+          },
+          {
+            "id": "e01facf0a7796e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 14.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 14"
+            }
+          },
+          {
+            "id": "85c49b29aee5b592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 13.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 13"
+            }
+          },
+          {
+            "id": "4c8bdc76a7a21a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 12.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 12"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mvn ",
+                "query": "whisper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,47 +267,49 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "edge-tts:Read note aloud": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d3aeb1d8b6f051e2",
+  "active": "e01facf0a7796e9a",
   "lastOpenFiles": [
-    "ECO/BLOQUE ULTIMO/demanda de bienes, demanda agregada.md",
-    "ECO/BLOQUE ULTIMO/encaje bancario.md",
-    "ECO/BLOQUE ULTIMO/inflacion.md",
-    "ECO/BLOQUE ULTIMO/tasa de interes de mercado.md",
-    "ECO/BLOQUE ULTIMO/masa monetaria.md",
-    "ECO/indicadores economicos e indicadores financieros.md",
+    "REDES/ok GEE 1.md",
+    "Sin título 14.md",
+    "Sin título 13.md",
+    "Sin título 12.md",
+    "Sin título 11.md",
+    "Sin título 10.md",
+    "Sin título 9.md",
+    "RI notas TL 1.md",
+    "ok aux i9 13950HX.md",
+    "Sin título.md",
+    "_COSILLAS/ok unir videos con ffmpeg, con audio y video separado.md",
+    "entrevista semillero universitario.md",
+    "Sin título 8.md",
+    "Sin título 6.md",
+    "Sin título 7.md",
+    "Sin título 5.md",
+    "Sin título 4.md",
+    "SIMULACION/clase presencial DT constante y simulacion dinamica.md",
+    "DDS-Notas/TPA4 y entregable ARQ.md",
+    "_COSILLAS/ok transcripcion whisper faster.md",
+    "Sin título 3.md",
+    "_COSILLAS/ok JDK en arch, cambio de version en jdk, arch quitar jdk, quitar java en arch quitar java con pacman.md",
+    "_COSILLAS/WINDOWS utilidades.md",
+    "Sin título 1.md",
+    "Sin nombre/Sin nombre.md",
+    "Sin nombre 1/Sin nombre 1.md",
+    "Sin nombre 1",
+    "Sin nombre",
     "ECO/BLOQUE ULTIMO",
-    "ECO/ok politica monetaria contractiva vs politica monetaria expansiva.md",
-    "ECO/ok factores de producción, factores productivos.md",
-    "ECO/BLOQUE 1 demanda/factores de la produccion.md",
-    "ECO/ok controlador de monopilios.md",
-    "ECO/ok elasticidad elastica.md",
-    "ECO/ok inventarios de produccion terminada.md",
-    "ECO/ok economía positiva vs economía normativa.md",
-    "ECO/Sin nombre/Sin nombre.md",
     "ECO/Sin nombre",
-    "_COSILLAS/OCR deepseek, pdf a md, imagen a md, imagen a markdown.md",
-    "DDS-Notas/Deploy y ssh.md",
-    "DDS-Notas/OTROS/Tp 2024/Deploy y ssh.md",
-    "REDES AVANZADAS/recopilados utnianos.md",
-    "SIMULACION/tarea evento a evento.md",
-    "DDS-Notas/TPS 2026/ejemplos de test.md",
-    "DDS-Notas/TPS 2026/DonaTrack - Sistema de Gestión y Trazabilidad de Donaciones - Entrega #1.md",
     "DDS-Notas/TPS 2026/Copia de casos de uso_sin ejemplo.pdf",
-    "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
-    "DDS-Notas/TPS 2026/TPS 2026.md",
-    "DDS-Notas/TPS 2026/tpi 3.md",
-    "DDS-Notas/FINAL posible enunciado 3.md",
-    "DDS-Notas/FINAL posible enunciado 2.md",
     "DDS-Notas/[DDS - UTN BA] Práctica de Repaso - Segundo Parcial 2024.pdf",
     "CIBERSEGURIDAD",
     "ECO/BLOQUE 1 demanda",
     "MYSQL comandos",
     "_COSILLAS/hornos y termotanques",
-    "_COSILLAS/Sin nombre",
-    "MINI PC ryzen anomalias",
     "IA/Pasted image 20250325173654.png",
     "IA/Pasted image 20250324173016.png",
     "IA/Pasted image 20250320180412.png",
