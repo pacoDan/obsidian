@@ -8,119 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3aeb1d8b6f051e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECO/BLOQUE ULTIMO/encaje bancario.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "encaje bancario"
-            }
-          },
-          {
-            "id": "ba7d6b745e579a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_COSILLAS/hornos y termotanques/termotanque a gas vs termotanque electrico.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "termotanque a gas vs termotanque electrico"
-            }
-          },
-          {
-            "id": "3883aa7568cdf281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIMULACION/tarea evento a evento.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "tarea evento a evento"
-            }
-          },
-          {
-            "id": "d75ab25c73d63d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RI notas TL 1.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "RI notas TL 1"
-            }
-          },
-          {
-            "id": "08f942ff095b9028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REDES/ok GEE 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ok GEE 1"
-            }
-          },
-          {
-            "id": "e01facf0a7796e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 14.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sin título 14"
-            }
-          },
-          {
-            "id": "85c49b29aee5b592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 13.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sin título 13"
-            }
-          },
-          {
             "id": "4c8bdc76a7a21a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título 12.md",
+                "file": "REDES/ok ATM.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sin título 12"
+              "title": "ok ATM"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,34 +173,34 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e01facf0a7796e9a",
+  "active": "4c8bdc76a7a21a9b",
   "lastOpenFiles": [
-    "REDES/ok GEE 1.md",
-    "Sin título 14.md",
-    "Sin título 13.md",
+    "REDES/ok Frame Relay.md",
+    "REDES/ok ATM.md",
+    "Sin título 25.md",
+    "Sin título 24.md",
+    "Sin título 23.md",
+    "Sin título 22.md",
+    "Sin título 21.md",
+    "Sin título 20.md",
+    "Sin título 19.md",
+    "Sin título 16.md",
+    "Sin título 17.md",
+    "Sin título 18.md",
+    "Sin título 15.md",
     "Sin título 12.md",
+    "Sin título 13.md",
+    "RI notas TL 1.md",
+    "REDES/ok GEE 1.md",
+    "_COSILLAS/ok transcripcion whisper faster.md",
+    "_COSILLAS/ok ia local docker deepseek OLLAMA.md",
+    "Sin título 14.md",
     "Sin título 11.md",
     "Sin título 10.md",
     "Sin título 9.md",
-    "RI notas TL 1.md",
     "ok aux i9 13950HX.md",
     "Sin título.md",
     "_COSILLAS/ok unir videos con ffmpeg, con audio y video separado.md",
-    "entrevista semillero universitario.md",
-    "Sin título 8.md",
-    "Sin título 6.md",
-    "Sin título 7.md",
-    "Sin título 5.md",
-    "Sin título 4.md",
-    "SIMULACION/clase presencial DT constante y simulacion dinamica.md",
-    "DDS-Notas/TPA4 y entregable ARQ.md",
-    "_COSILLAS/ok transcripcion whisper faster.md",
-    "Sin título 3.md",
-    "_COSILLAS/ok JDK en arch, cambio de version en jdk, arch quitar jdk, quitar java en arch quitar java con pacman.md",
-    "_COSILLAS/WINDOWS utilidades.md",
-    "Sin título 1.md",
-    "Sin nombre/Sin nombre.md",
-    "Sin nombre 1/Sin nombre 1.md",
     "Sin nombre 1",
     "Sin nombre",
     "ECO/BLOQUE ULTIMO",

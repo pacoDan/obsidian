@@ -1,1 +1,0 @@
-![[TP1_Entrega_Parcial_Grupo-26]]

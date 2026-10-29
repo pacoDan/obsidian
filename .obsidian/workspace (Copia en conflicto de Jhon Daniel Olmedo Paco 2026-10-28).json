@@ -1,0 +1,352 @@
+{
+  "main": {
+    "id": "76b505a02306bf62",
+    "type": "split",
+    "children": [
+      {
+        "id": "7942cf31c5f73381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3aeb1d8b6f051e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECO/BLOQUE ULTIMO/encaje bancario.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "encaje bancario"
+            }
+          },
+          {
+            "id": "ba7d6b745e579a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/hornos y termotanques/termotanque a gas vs termotanque electrico.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "termotanque a gas vs termotanque electrico"
+            }
+          },
+          {
+            "id": "3883aa7568cdf281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIMULACION/tarea evento a evento.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "tarea evento a evento"
+            }
+          },
+          {
+            "id": "d75ab25c73d63d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RI notas TL 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "RI notas TL 1"
+            }
+          },
+          {
+            "id": "08f942ff095b9028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/ok GEE 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ok GEE 1"
+            }
+          },
+          {
+            "id": "e01facf0a7796e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/ok transcripcion whisper faster.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ok transcripcion whisper faster"
+            }
+          },
+          {
+            "id": "85c49b29aee5b592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 13.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 13"
+            }
+          },
+          {
+            "id": "4c8bdc76a7a21a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/ok Frame Relay.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ok Frame Relay"
+            }
+          },
+          {
+            "id": "63c119842ba9cec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 17.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 17"
+            }
+          },
+          {
+            "id": "bf49aa4ba437c78b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 16.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 16"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8434da698d2a864",
+    "type": "split",
+    "children": [
+      {
+        "id": "77178dbc13e9a1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682a80cd09e45bf3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "078d09bd6e0b9a95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "whisper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3808d6f68c2aa21e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.8447952270508
+  },
+  "right": {
+    "id": "3bddd586551dd828",
+    "type": "split",
+    "children": [
+      {
+        "id": "1066a5312f8e7ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f3ab938460d3918",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CIBERSEGURIDAD/Entregable.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d0751390daa8feff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SISTEMAS DE COSTOS Y PRESUPUESTOS/PRESUPUESTOS/ejercicio 19 esquema de financiacion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de ejercicio 19 esquema de financiacion"
+            }
+          },
+          {
+            "id": "7a3df807b045f958",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "765132ea60f57b05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SISTEMAS DE COSTOS Y PRESUPUESTOS/PRESUPUESTOS/ejercicio 19 esquema de financiacion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de ejercicio 19 esquema de financiacion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "edge-tts:Read note aloud": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "4c8bdc76a7a21a9b",
+  "lastOpenFiles": [
+    "Sin título 17.md",
+    "REDES/ok Frame Relay.md",
+    "Sin título 16.md",
+    "Sin título 15.md",
+    "Sin título 12.md",
+    "Sin título 13.md",
+    "RI notas TL 1.md",
+    "REDES/ok GEE 1.md",
+    "_COSILLAS/ok transcripcion whisper faster.md",
+    "_COSILLAS/ok ia local docker deepseek OLLAMA.md",
+    "Sin título 14.md",
+    "Sin título 11.md",
+    "Sin título 10.md",
+    "Sin título 9.md",
+    "ok aux i9 13950HX.md",
+    "Sin título.md",
+    "_COSILLAS/ok unir videos con ffmpeg, con audio y video separado.md",
+    "entrevista semillero universitario.md",
+    "Sin título 8.md",
+    "Sin título 6.md",
+    "Sin título 7.md",
+    "Sin título 5.md",
+    "Sin título 4.md",
+    "SIMULACION/clase presencial DT constante y simulacion dinamica.md",
+    "DDS-Notas/TPA4 y entregable ARQ.md",
+    "Sin título 3.md",
+    "Sin nombre 1",
+    "Sin nombre",
+    "ECO/BLOQUE ULTIMO",
+    "ECO/Sin nombre",
+    "DDS-Notas/TPS 2026/Copia de casos de uso_sin ejemplo.pdf",
+    "DDS-Notas/[DDS - UTN BA] Práctica de Repaso - Segundo Parcial 2024.pdf",
+    "CIBERSEGURIDAD",
+    "ECO/BLOQUE 1 demanda",
+    "MYSQL comandos",
+    "_COSILLAS/hornos y termotanques",
+    "IA/Pasted image 20250325173654.png",
+    "IA/Pasted image 20250324173016.png",
+    "IA/Pasted image 20250320180412.png",
+    "IA/Pasted image 20250320175822.png",
+    "IA/Pasted image 20250320160702.png",
+    "IA/Pasted image 20250320155645.png",
+    "IA/Pasted image 20250320151525.png",
+    "IA/Pasted image 20250320144947.png",
+    "IA/Pasted image 20250320143135.png",
+    "IA/Pasted image 20250320134913.png"
+  ]
+}
