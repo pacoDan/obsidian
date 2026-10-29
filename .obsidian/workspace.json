@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/ok ATM.md",
-                "mode": "preview",
+                "file": "REDES/Explicar el mecanismo de control de congestion en Frame Relay versus el de TCP.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ok ATM"
+              "title": "Explicar el mecanismo de control de congestion en Frame Relay versus el de TCP"
+            }
+          },
+          {
+            "id": "9ffaf498fc763c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/ok MPLS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ok MPLS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +188,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4c8bdc76a7a21a9b",
+  "active": "9ffaf498fc763c2d",
   "lastOpenFiles": [
-    "REDES/ok Frame Relay.md",
+    "REDES/Explicar el mecanismo de control de congestion en Frame Relay versus el de TCP.md",
+    "REDES/ok MPLS.md",
     "REDES/ok ATM.md",
+    "REDES/ok Frame Relay.md",
     "Sin título 25.md",
     "Sin título 24.md",
     "Sin título 23.md",
@@ -199,8 +216,6 @@
     "Sin título 10.md",
     "Sin título 9.md",
     "ok aux i9 13950HX.md",
-    "Sin título.md",
-    "_COSILLAS/ok unir videos con ffmpeg, con audio y video separado.md",
     "Sin nombre 1",
     "Sin nombre",
     "ECO/BLOQUE ULTIMO",
